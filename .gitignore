@@ -1,0 +1,5 @@
+kiwi.json
+gspread.json
+.venv
+.env
+__pycache__
